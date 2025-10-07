@@ -114,7 +114,7 @@
                 Uma vez que ele se sente seguro, Leo se revela um companheiro extremamente fiel e carinhoso. Ele adora ficar juntinho, colado ao seu humano de confiança. É dócil, paciente e ideal para um lar que entenda a importância de uma adaptação gradual e que ofereça um ambiente tranquilo e amoroso. Ele está pronto para florescer com a paciência certa."
             </p>  
             <div class="cta-box">
-    <h3>Você Gostou da História do Red?</h3>
+    
     <p>
         Sua doação garante que tenhamos ração, vacinas e tratamento veterinário para criar mais finais felizes como o dele. 
     </p>
